@@ -32,4 +32,12 @@ Our code and datasets are based on [VideoLLaMA2](https://github.com/DAMO-NLP-SG/
   year={2024},
   url = {https://arxiv.org/abs/2406.07476}
 }
+@inproceedings{he-etal-2025-dialoguemmt,
+    title = {DialogueMMT: Dialogue Scenes Understanding Enhanced Multi-modal Multi-task Tuning for Emotion Recognition in Conversations},
+    author = {He, ChenYuan  and Zhu, Senbin  and Liu, Hongde  and Gao, Fei  and Jia, Yuxiang  and Zan, Hongying  and Peng, Min},
+    booktitle = {Proceedings of the 31st International Conference on Computational Linguistics},
+    year = {2025},
+    publisher = {Association for Computational Linguistics},
+    pages = {2497--2512},
+}
 ```
